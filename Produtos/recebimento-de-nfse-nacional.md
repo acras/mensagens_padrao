@@ -1,0 +1,4 @@
+- Possibilita o recebimento de notas de serviço onde o CNPJ é o tomador, e que estejam disponíveis no ambiente nacional da NFSe 
+- As consultas ocorrem 1 vez ao dia, durante a madrugada 
+- Disponibilizamos o XML, PDF e JSON da nota 
+- Essa funcionalidade está presente em nossos planos Solo, Start e Growth, e cada documento capturado conta como uma unidade no plano. https://focusnfe.com.br/precos/

@@ -1,0 +1,2 @@
+O upload dos certificados podem ser feitos manualmente, via painel administrativo, ou de forma automatizada, via API. https://doc.focusnfe.com.br/reference/empresas
+Nós codificamos o certificado digital modelo A1 e senha em base64 e aplicamos o protocolo de segurança SHA256. O certificado fica armazenado em um servidor onde ninguém tem acesso, e devido ao protocolo de segurança, uma vez em nossos servidores não é possível criar uma cópia do certificado.
