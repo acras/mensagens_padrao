@@ -1,0 +1,5 @@
+- Possibilita o recebimento de documentos onde o CNPJ da empresa seja o destinatário ou seja citado como parte interessada. 
+- Usamos o serviço oficial da receita para manifesto do destinatário. Dessa forma, no caso de NFes onde o CNPJ é o destinatário, é necessário o manifesto de ciência para a captura do documento 
+- Fazemos consultas a cada 1h30 usando o certificado digital modelo A1 da empresa 
+- Disponibilizamos o XML, PDF e JSON da nota 
+- Essas funcionalidades estão presentes em nossos planos Solo, Start e Growth, e cada documento capturado conta como uma unidade no plano. https://focusnfe.com.br/precos/

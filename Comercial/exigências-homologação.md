@@ -1,0 +1,2 @@
+Para que possa fazer testes, mesmo que em homologação, é necessário que cadastre uma empresa real com certificado A1 válido e que esteja habilitada a fazer a emissão do tipo de documento desejado. 
+Usamos os ambientes oficiais da SEFAZ/prefeituras/emissor nacional, e eles exigem uso de dados reais, mesmo em homologação.
